@@ -1,6 +1,6 @@
 ### Type - Address
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/types/Address.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/types/Address.schema.json`
 
 _Type representation of an address_
 

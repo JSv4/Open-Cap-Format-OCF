@@ -1,6 +1,6 @@
 ### Conversion Mechanism - Fixed Amount
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/types/conversion_mechanisms/FixedAmountConversionMechanism.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/types/conversion_mechanisms/FixedAmountConversionMechanism.schema.json`
 
 _Describes how a security converts into a fixed amount of a stock class_
 

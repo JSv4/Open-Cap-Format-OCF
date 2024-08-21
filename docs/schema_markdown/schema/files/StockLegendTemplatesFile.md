@@ -1,6 +1,6 @@
 ### File - Stock Legend Templates
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/files/StockLegendTemplatesFile.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/files/StockLegendTemplatesFile.schema.json`
 
 **Description:** _JSON containing file type identifier and list of stock legend templates_
 

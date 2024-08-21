@@ -1,6 +1,6 @@
 ### Object - Equity Compensation Acceptance Transaction
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/objects/transactions/acceptance/EquityCompensationAcceptance.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/objects/transactions/acceptance/EquityCompensationAcceptance.schema.json`
 
 **Description:** _Object describing equity compensation acceptance transaction_
 

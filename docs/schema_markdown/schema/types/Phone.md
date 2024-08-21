@@ -1,6 +1,6 @@
 ### Type - Phone
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/types/Phone.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/types/Phone.schema.json`
 
 _Type representation of a phone number_
 

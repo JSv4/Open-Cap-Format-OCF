@@ -1,6 +1,6 @@
 ### Object - Equity Compensation Release Transaction
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/objects/transactions/release/EquityCompensationRelease.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/objects/transactions/release/EquityCompensationRelease.schema.json`
 
 **Description:** _Object describing equity compensation security release transaction_
 

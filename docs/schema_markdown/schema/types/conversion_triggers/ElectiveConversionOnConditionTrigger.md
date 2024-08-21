@@ -1,6 +1,6 @@
 ### Type - Elective Conversion on Condition Trigger
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/types/conversion_triggers/ElectiveConversionOnConditionTrigger.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/types/conversion_triggers/ElectiveConversionOnConditionTrigger.schema.json`
 
 _Type representation of elective trigger on fulfillment of a condition._
 

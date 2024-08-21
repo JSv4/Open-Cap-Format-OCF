@@ -1,6 +1,6 @@
 ### Enum - Allocation Type
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/enums/AllocationType.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/enums/AllocationType.schema.json`
 
 **Description:** _Enumeration of allocation types for vesting terms. Using an example of 18 shares split across 4 tranches, each allocation type results in a different schedule as follows: 
   1.  Cumulative Rounding (5 - 4 - 5 - 4)
