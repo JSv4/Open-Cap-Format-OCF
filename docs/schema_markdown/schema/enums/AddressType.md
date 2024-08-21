@@ -1,6 +1,6 @@
 ### Enum - Address Type
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/enums/AddressType.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/enums/AddressType.schema.json`
 
 **Description:** _Enumeration of address types_
 

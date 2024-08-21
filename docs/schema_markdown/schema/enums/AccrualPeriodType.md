@@ -1,6 +1,6 @@
 ### Enum - Accrual Period Type
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/enums/AccrualPeriodType.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/enums/AccrualPeriodType.schema.json`
 
 **Description:** _Enumeration of interest accrual period types_
 

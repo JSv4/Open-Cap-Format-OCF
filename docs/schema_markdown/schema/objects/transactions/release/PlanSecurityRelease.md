@@ -1,6 +1,6 @@
 ### Object - Plan Security Release
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/objects/transactions/release/PlanSecurityRelease.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/objects/transactions/release/PlanSecurityRelease.schema.json`
 
   **Description:** _Object describing plan security release transaction (a compatibility wrapper for equity compensation release event_
 

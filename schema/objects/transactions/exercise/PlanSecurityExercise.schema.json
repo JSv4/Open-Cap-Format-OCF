@@ -1,11 +1,11 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema",
-  "$id": "https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/objects/transactions/exercise/PlanSecurityExercise.schema.json",
+  "$id": "https://schema.opencaptablecoalition.com/v/9.9.9/objects/transactions/exercise/PlanSecurityExercise.schema.json",
   "title": "Object - Plan Security Exercise",
   "description": "Object for a plan security exercise (which is a compatibility wrapper for Equity Compensation Exercise)",
   "allOf": [
     {
-      "$ref": "https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/objects/transactions/exercise/EquityCompensationExercise.schema.json"
+      "$ref": "https://schema.opencaptablecoalition.com/v/9.9.9/objects/transactions/exercise/EquityCompensationExercise.schema.json"
     }
   ],
   "properties": {

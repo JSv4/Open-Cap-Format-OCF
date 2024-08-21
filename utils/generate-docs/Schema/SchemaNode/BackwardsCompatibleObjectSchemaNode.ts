@@ -2,7 +2,6 @@ import { format } from "date-fns";
 import path from "node:path";
 import { relativePathToOtherPath } from "../../../schema-utils/PathTools.js";
 
-import { repo_raw_url_root } from "../../../schema-utils/Constants.js";
 import Schema from "../Schema.js";
 import { PropertyJson } from "./Property/Factory.js";
 import SchemaNode from "./SchemaNode.js";

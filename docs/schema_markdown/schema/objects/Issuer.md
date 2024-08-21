@@ -1,6 +1,6 @@
 ### Object - Issuer
 
-`https://raw.githubusercontent.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/main/schema/objects/Issuer.schema.json`
+`https://schema.opencaptablecoalition.com/v/9.9.9/objects/Issuer.schema.json`
 
 **Description:** _Object describing the issuer of the cap table (the company whose cap table this is)_
 
