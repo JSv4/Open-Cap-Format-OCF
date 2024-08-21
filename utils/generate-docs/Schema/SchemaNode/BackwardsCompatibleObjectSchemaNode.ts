@@ -41,8 +41,8 @@ export default class BackwardsCompatibleObjectSchemaNode extends SchemaNode {
 
   protected basename = () => path.basename(this.id(), ".schema.json");
 
-  protected directory = () =>
-    path.dirname(this.id().slice(`${repo_raw_url_root}/main/`.length));
+  // protected directory = () =>
+  //   path.dirname(this.id().slice(`${repo_raw_url_root}/main/`.length));
 
   protected allOf = (): SchemaNode[] => [];
 
